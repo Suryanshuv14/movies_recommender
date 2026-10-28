@@ -2,6 +2,11 @@
 
 A content-based movie recommendation system built using Python, Pandas, and Scikit-learn. The project uses movie metadata and credits to explore similarities between movies and generate recommendations.
 
+# Results
+
+![alt text](docs/image-1.png)
+![alt text](docs/image.png)
+
 ## Dataset
 
 This project uses the TMDB 5000 Movie Dataset.
